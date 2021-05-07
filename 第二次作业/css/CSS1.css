@@ -1,0 +1,17 @@
+@charset "UTF-8";
+/*.m-mark{
+	width:14px;
+	height: 15px;
+	border: 7px solid #666;
+	border-bottom: 8px solid #transparent;
+	border-radius: 3px 3px 0 0;
+	display: block;
+	/*box-sizing: border-box;*/
+}*/
+.m-item{
+	font-size:60px;
+}
+.fn-active{
+	font-size:90px;
+}
+

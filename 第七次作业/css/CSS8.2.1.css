@@ -1,0 +1,45 @@
+@charset "UTF-8";
+* {
+  padding: 0;
+  margin: 0;
+}
+body {
+  display: flex;
+  position: fixed;
+  top: 130px;
+  left: 500px;
+}
+.page {
+  margin-top: 10px;
+}
+
+.page .top {
+  display: flex;
+  list-style: none;
+}
+
+.page .top li {
+  display: inline-block;
+  width: 70px;
+  height: 30px;
+  border: solid 1px black;
+}
+
+.page .top li:nth-child(1) {
+  background-color:silver;
+}
+
+.page .bd {
+  text-align: center;
+  width: 400px;
+  height: 300px;
+  border: solid 1px black;
+  line-height: 3;
+  font-size: 100px;
+  font-weight: 800;
+  color: silver;
+}
+.p {
+  cursor: pointer;
+}
+

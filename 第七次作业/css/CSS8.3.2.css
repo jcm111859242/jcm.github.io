@@ -1,0 +1,42 @@
+@charset "UTF-8";
+.top .item:nth-child(1) {
+    display: none;
+}
+.item {
+    position: relative;
+    height: 30px;
+    width: 400px;
+    background-color: white;
+    border:1px solid black;
+    margin: 20px auto;
+}
+.item .left {
+    display: inline-block;
+    height: 30px;
+    width: 80px;
+    background-color: white;
+    border:0.5px solid black;
+    color: black;
+    text-align: center;
+}
+
+.item .right {
+    position: absolute;
+    right: 0;
+    display: inline-block;
+    height: 30px;
+    width: 150px;
+    border:1px solid black;
+    margin-left: auto;
+    text-align: center;
+    font-size: 25px;
+}
+button {
+    width: 150px;
+    position: relative;
+    height: 50px;
+    margin-left: 689px;
+    background-color: green;
+    color: white;
+    font-size: 10pt;
+}

@@ -1,0 +1,372 @@
+@charset "UTF-8";
+.background{
+	background: #00BFFF;
+	height: 100px;
+}
+.top-topest{
+  width: 100%;
+  background: #00c2af;
+  height: 80px;
+}
+.top-back-center{
+  background: white;
+  height: 40px;
+  margin-top:20px;
+}
+.behind-top{
+	height: 300px;
+	background: white;
+}
+.behind-right-top{
+	height: 150px;
+	background: white;
+}
+.bottom-top-left{
+	height: 300px;
+	background: white;
+	margin-top:-1px;
+	border:1px solid black;
+}
+.bottom-top-top{
+	height: 150px;
+	background: white;
+	margin-top:-1px;
+	margin-left: -1px;
+	border:1px solid black;
+}
+.bottom-top-under{
+	height: 150px;
+	background: white;
+	margin-top:-1px;
+	margin-left: -1px;
+	border:1px solid black;
+}
+.bottom-top-right{
+	height: 150px;
+	background: white;
+	margin-top:-1px;
+	margin-left: -1px;
+	border:1px solid black;
+}
+.under-top{
+	background: white;
+	height: 80px;
+}
+.border-top-left{
+	height: 150px;
+	background: white;
+	margin-top:-1px;
+	margin-left: -1px;
+	border:1px solid black;
+}
+.back-top{
+	height: 180px;
+	background: white;
+	margin-top:-1px;
+	border:1px solid black;
+}
+/*rectangle*/
+.rectangle-top-left{
+	background: silver;
+	width: 150px;
+    height: 150px;
+    position: relative;
+    margin-top: 12px;
+    margin-left: 80px;
+    z-index: 2;
+    display: block;
+}
+.rectangle-top-right{
+	background: silver;
+	width: 120px;
+    height: 120px;
+    position: relative;
+    margin-top: -110px;
+    margin-left: 800px;
+    z-index: 2;
+    display: block;
+}
+.rectangle-top-right1{
+	background: silver;
+	width: 120px;
+    height: 120px;
+    position: relative;
+    margin-top: -110px;
+    margin-left: 600px;
+    z-index: 2;
+    display: block;
+}
+.rectangle-top-right2{
+	background: silver;
+	width: 120px;
+    height: 120px;
+    position: relative;
+    margin-top: -100px;
+    margin-left: 600px;
+    z-index: 2;
+    display: block;
+}
+.rectangle-right-left{
+	background: silver;
+	width: 60px;
+    height: 60px;
+    position: relative;
+    margin-top: 8px;
+    margin-left:150px;
+    z-index: 2;
+    display: block;
+}
+.rectangle-right-center1{
+	background: silver;
+	width: 35px;
+    height: 20px;
+    border-radius: 2px;
+    position: relative;
+    margin-top: 8px;
+    margin-left:180px;
+    z-index: 2;
+    display: block;
+}
+.rectangle-right-center2{
+	background: silver;
+	width: 35px;
+    height: 20px;
+    border-radius: 2px;
+    position: relative;
+    margin-top: -20px;
+    margin-left:230px;
+    z-index: 2;
+    display: block;
+}
+.rectangle-right-center3{
+	background: silver;
+	width: 35px;
+    height: 20px;
+    border-radius: 2px;
+    position: relative;
+    margin-top: -20px;
+    margin-left:280px;
+    z-index: 2;
+    display: block;
+}
+.rectangle-under-top{
+	background: silver;
+	width: 140px;
+    height: 140px;
+    border-radius: 2px;
+    position: relative;
+    margin-top: 20px;
+    margin-left:20px;
+    z-index: 2;
+    display: block;
+}
+.rectangle-under-canyon{
+	border-radius: 2px;
+	width: 70px;
+    height: 30px;
+    border:2px solid orange;
+    margin-top: -35px;
+    margin-left: 320px;
+}
+/*font*/
+.font-start{
+	font-size: 15pt;
+	color:green;
+	margin-left: 1500px;
+	margin-top: -20px;
+}
+.font-end{
+	font-size: 15pt;
+	color:green;
+	margin-left: 20px;
+	margin-top: 30px;
+}
+.font-under-showmaker{
+	color: orange;
+	font-size: 10pt;
+	margin-left: 10px;
+	margin-top: 3px;
+}
+.font-under-ghost{
+	font-size: 10pt;
+	margin-top: -10px;
+	margin-left: 1500px;
+}
+.font-under-beryl{
+	font-size: 10pt;
+	margin-left: 300px;
+	margin-top: -20px;
+}
+.font-under{
+	font-size: 15pt;
+	margin-top: 25px;
+}
+.font-topest{
+  font-size: 15pt; 
+  position: relative;
+  margin-top:24px;
+  color: white;
+  margin-left: 100px;
+}
+.font-v{
+   font-size: 15pt;
+   color: white;
+   position: relative;
+   margin-left: 140px; 
+   margin-top: -28px;
+}
+.font-top-center{
+	font-size: 10pt;
+	color: silver;
+	position: relative;
+	margin-top: -20px;
+	margin-left: 45px;
+}
+.font-top-right{
+	font-size: 10pt;
+	color: white;
+	position: relative;
+	margin-left: 115px;
+}
+.font-bottom{
+	font-size: 15pt;
+	margin-left: 100px;
+}
+.font-bottom-rng{
+	color: green;
+	font-size: 20pt;
+	margin-top:30px; 
+	margin-left:80px; 
+}
+.font-bottom-rng1{
+	color: red;
+	font-size: 20pt;
+	margin-top:30px; 
+	margin-left:80px; 
+}
+.font-bottom-rng2{
+	color: #FF00FF;
+	font-size: 20pt;
+	margin-top:30px; 
+	margin-left:80px; 
+}
+.font-bottom-rng3{
+	color: orange;
+	font-size: 20pt;
+	margin-top:30px; 
+	margin-left:180px; 
+}
+.font-bottom-fpx1{
+	color: silver;
+	font-size: 15pt;
+	margin-top:20px; 
+	margin-left:180px; 
+}
+.font-bottom-fpx{
+	color: silver;
+	font-size: 15pt;
+	margin-top:30px; 
+	margin-left:80px; 
+}
+.font-under-top{
+	font-size: 20pt;
+	margin-left: 200px;
+	margin-top: -140px;
+}
+.font-under-bottom{
+	font-size: 15pt;
+	margin-top: 10px;
+	margin-left: 200px;
+}
+.font-under-dk{
+	color:#00c2af;
+	font-size: 25pt; 
+	margin-left: 200px;
+	margin-top: 30px;
+}
+.font-under-khan{
+	color:#00c2af;
+	font-size: 15pt; 
+	margin-left: 245px;
+	margin-top: -35px;
+}
+/*image*/
+.img-first img{
+   width: 5%;
+   margin-top: 6px;
+}
+.img-second img{
+	width: 20%;
+	position: relative;
+	margin-left: 100px;
+	margin-top: 10px;
+}
+/*circle*/
+.circle-top-left{
+	border-radius: 50%;
+	background: orange;
+	height: 80px;
+	width: 80px;
+    position: relative;
+    margin-left: 75px;
+    margin-top: 10px;
+}
+.circle-behind-left{
+	background: red;
+	height: 80px;
+	width: 80px;
+    position: relative;
+    margin-left: 75px;
+    margin-top: 10px;
+    border-radius: 50%;
+}
+.circle-behind-center{
+	height: 80px;
+	width: 80px;
+    position: relative;
+    margin-left: 75px;
+    margin-top: 10px;
+    border-radius: 50%;
+    background: #6495ED;
+}
+.circle-behind-right{
+	height: 80px;
+	width: 80px;
+    position: relative;
+    margin-left: 75px;
+    margin-top: 10px;
+    border-radius: 50%;
+    background: orange;
+}
+.circle-top-right{
+	background: #00FFFF;
+	height: 80px;
+	width: 80px;
+    position: relative;
+    margin-left: 75px;
+    margin-top: 10px;
+    border-radius: 50%;
+}
+.circle-bottom-left{
+	height: 80px;
+	width: 80px;
+    position: relative;
+    margin-left: 75px;
+    margin-top: 10px;
+    border-radius: 50%;
+    background: yellow;
+}
+/*line*/
+.line{
+	height: 40px;
+	margin-top: -2px;
+	background: silver;
+	border:1px solid black;
+}
+.line-top-left{
+	width: 0px;
+	height: 280px;
+	margin-top: -275px;
+	margin-left: 410.5px;
+	border:1px solid silver;
+}
